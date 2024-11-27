@@ -1,0 +1,58 @@
+*{
+    font-family: "Roboto Slab", serif;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+header{
+    background-color: #88baa3;
+}
+.nav-item a{
+    color:#e4e6c3 ;
+}
+#boton-perfil{
+    background-color: #e4e6c3;
+}
+.nav-item a:hover{
+    color: #ba1e4a;
+}
+#app{
+    color:#ba1e4a ;
+}
+.boton-cv{
+    background-color: #88baa3;
+    color:#e4e6c3;
+}
+.caja-habilidades{
+    background-color: #e4e6c3;
+}
+
+.btn-proyecto{
+    background-color:#ba1e4a ;
+
+}
+.btn-proyecto a{
+    text-decoration: none;
+    color: #e4e6c3;
+}
+.card .card-title{
+    color:#ba1e4a ;
+}
+header a{
+    color:#63203d;
+}
+#contacto{
+    background-color:#88baa3;
+    color: #450521;
+}
+footer li a{
+    color: #ba1e4a;
+}
+footer p{
+    color:#361f2d ;
+}
+footer p a{
+    text-decoration: none;
+    color:#ba1e4a ;
+}
